@@ -9,3 +9,4 @@ python-dotenv
 nltk
 requests
 werkzeug
+gunicorn 
